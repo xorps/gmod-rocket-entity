@@ -1,0 +1,1 @@
+This modifies the `rocket_jumpers` addon with a new rocket entity that pops enemies in the air likeso in quake 3.
